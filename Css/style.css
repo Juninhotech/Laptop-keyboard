@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main_container{
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 1px 8px grey, 6px 5px 5px 3px grey ;
+    padding: 30px;
+    height: 500px;
+    width: 1200px;
+    border-radius: 40px;
+}
+
+.rows{
+    width: 100%;
+    height: 70px;
+    
+}
+.row_1,.row_2,.row_3,.row_4,.row_5,.row_6{
+    margin: 5px;
+}
+
+button{
+    width: 60px;
+    height: 60px;
+    border: none;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 4px 4px grey;
+    font-size: 1.13rem;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+    border-radius: 10px;
+} 
+button:hover{
+    background: grey;
+
+    
+}
+
+.pause{
+    width: 120px;
+}
+.backy{
+    width: 120px;
+}
+.enty{
+    width: 142px;
+    padding-bottom: 90px;
+    padding-top: 18px;
+    
+}
+
+.tabby{
+    width: 100px;
+}
+.cappy{
+    width: 120px;
+}
+.enty2{
+
+    width: 186px;
+}
+
+.shifty{
+    width: 120px;
+}
+.shifty2{
+    width: 185px;
+}
+.windy,.alty,.conty{
+    width: 80px;
+}
+.spacy{
+    width: 360px;
+}
+.fnny{
+    width: 120px;
+}
+
+/* .nav button{
+    border: none;
+    outline: 2px blue;
+    background: none;
+    color: black;
+    width: 75px;
+    
+}
+.nav{
+    background: yellow;
+    padding: 10px;
+} */
